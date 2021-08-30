@@ -95,7 +95,7 @@ def print_hello_x_or_ten_times(x = 10):
 
 print_hello_x_or_ten_times()
 print_hello_x_or_ten_times(4)
-# log statement
+# log statements
 
 
 """
